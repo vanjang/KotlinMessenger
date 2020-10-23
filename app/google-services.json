@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "736223377151",
+    "firebase_url": "https://conchip-b1ba6.firebaseio.com",
+    "project_id": "conchip-b1ba6",
+    "storage_bucket": "conchip-b1ba6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736223377151:android:f6bea41dcf83e683247eca",
+        "android_client_info": {
+          "package_name": "com.cochipcho.kotlinmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736223377151-1c6ed1rbki81srhi87ei09arho7toofu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cochipcho.kotlinmessenger",
+            "certificate_hash": "101060aee7743dd82d13dda06e099ac00cdbd9f9"
+          }
+        },
+        {
+          "client_id": "736223377151-qm5e0acv7308ohv921trht9gf2bgiprp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDymP2MR46U8lsT7yVvF5X9c06R_1nVsFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736223377151-qm5e0acv7308ohv921trht9gf2bgiprp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "736223377151-26j8t3ofldsfoecp6vukjf565a61k8fs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cochipcho.conchip"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
